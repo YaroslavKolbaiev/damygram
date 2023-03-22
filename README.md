@@ -11,3 +11,4 @@ Build with [Vue 3](https://vuejs.org) and [Vite](https://vitejs.dev/)
 
 ## Visit Page
 
+https://clever-pegasus-b15c06.netlify.app/
