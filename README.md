@@ -8,6 +8,7 @@ Build with [Vue 3](https://vuejs.org) and [Vite](https://vitejs.dev/)
 
 - Backend and Database with [Supabase](https://supabase.com/)
 - Styling with [Tailwind](https://tailwindcss.com/)
+- Authorization with Google Cloud
 
 ## Visit Page
 
