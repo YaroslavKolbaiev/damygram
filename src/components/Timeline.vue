@@ -7,10 +7,9 @@ import { storeToRefs } from "pinia";
 
 const userStore = useUserStore();
 const { user, isLoadingUser } = storeToRefs(userStore);
-
 </script>
 <template>
-  <div class="container mx-auto px-14">
+  <div class="container mx-auto px-12">
     <div v-if="!isLoadingUser">
       <div
         v-if="user"

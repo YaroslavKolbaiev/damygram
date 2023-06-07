@@ -18,6 +18,6 @@ onMounted(() => {
 
 <template>
   <div>
-    <div class="h-2 w-2" ref="dom"></div>
+    <div class="h-1 w-1" ref="dom"></div>
   </div>
 </template>
